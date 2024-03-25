@@ -15,13 +15,12 @@ website: https://samllbrown.github.io/portfolio/
 darkmode: false
 
 # Social links
-twitter_username: facespics
-github_username:  sproogen
+github_username:  samllbrown
 # stackoverflow_username: "00000001"
 # dribbble_username: jekyll
 # facebook_username: jekyll
 # flickr_username: jekyll
-linkedin_username: 
+linkedin_username: samuel-b-569810134
 # xing_username: jekyll
 # pinterest_username: jekyll
 # googleplus_username: +jekyll
@@ -39,7 +38,7 @@ additional_links:
 # Google Analytics and Tag Manager
 # Using more than one of these may cause issues with reporting
 # gtm: "GTM-0000000"
-# gtag: "UA-00000000-0"
+# gtag: "UA-00000000-0" 
 # google_analytics: "UA-00000000-0"
 
 # About Section
