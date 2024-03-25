@@ -47,7 +47,7 @@ about_profile_image: images/profile.jpg
 about_content: | # this will include new lines to allow paragraphs
   Hi, my name's Sam and I'm a Associate software engineer. 
 
-  I am most skilled in: <mark>Kotlin</mark> and <mark>Android development</mark>
+  I am most skilled in: <b>Kotlin</b> and <b>Android development</b>
 
 content:
 
